@@ -13,11 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     liubinpython
-zhihu_username:     liubinpython
+weibo_username:     liubinzy
+zhihu_username:     liubinzy
 github_username:    liubinpython
-twitter_username:   liubinpython
-#twitter_username:  liubinzy
+twitter_username:   liubinzy
 #linkedin_username:  firstname-lastname-idxxxx
 
 
